@@ -1,4 +1,5 @@
 ## Requirements
+```
 pytorch>=1.11
 numpy
 pandas
@@ -6,6 +7,7 @@ matplotlib
 pyyaml
 pickle
 os
+```
 ## Training Commands
 
 
