@@ -10,9 +10,9 @@ os
 ```
 ## Training Commands
 
-
+```
 python train.py -d <dataset> -g <gpu_id> -sc <sc_file>
-
+```
 `<dataset>`:
 - METRLA
 - PEMSBAY
